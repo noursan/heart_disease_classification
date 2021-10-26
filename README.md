@@ -8,4 +8,4 @@ The data used in this work corresponds to the Cleveland dataset available [in th
 
 Check out my project in this [python jupiter notebook](https://github.com/noursan/clustering_countries/blob/main/countries_pca_clustering.ipynb).
 
-<img src="https://github.com/noursan/heart_disease_classification/blob/main/HeartAnatomy.jpg" width="800" height="500" class="center">
+<p style="text-align:center;"><img src="https://github.com/noursan/heart_disease_classification/blob/main/HeartAnatomy.jpg" width="800" height="400" class="center">
