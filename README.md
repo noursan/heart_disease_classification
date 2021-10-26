@@ -4,7 +4,7 @@ The objective of this project is to identify the presence of heart disease in te
 
 The data used in this work corresponds to the Cleveland dataset available [in this archive](https://archive.ics.uci.edu/ml/datasets/heart+Disease). 
 
-[ONGOING PROJECT]
+<span style='color:Red'> [ONGOING PROJECT]  </span>
 
 Check out my project in this [python jupiter notebook](https://github.com/noursan/clustering_countries/blob/main/countries_pca_clustering.ipynb).
 
