@@ -2,7 +2,7 @@
 ## Heart Disease multiclass classification
 The objective of this project is to identify the presence of heart disease in terms of positive and negative diagnosis as well as level of disease if positive. 
 
-The data used in this work corresponds to the Cleveland dataset available [in this archive](https://archive.ics.uci.edu/ml/datasets/heart+Disease). 
+The data used in this work corresponds to the available Cleveland dataset [in this archive](https://archive.ics.uci.edu/ml/datasets/heart+Disease). 
 
 <span style='color:Red'> [ONGOING PROJECT]  </span>
 
