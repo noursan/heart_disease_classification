@@ -1,6 +1,6 @@
 # heart_disease_classification
 ## Heart Disease multiclass classification
-The objective of this project is to identify the presence of heart disease in terms of positive and negative diagnosis as well as level of disease if positive. 
+The objective of this project is to identify the presence of heart disease in terms of positive and negative diagnosis as well as level of disease if positive. Furthermore, an study of the provided data structure is made using UMAP method.
 
 The data used in this work corresponds to the available Cleveland dataset [in this archive](https://archive.ics.uci.edu/ml/datasets/heart+Disease). 
 
